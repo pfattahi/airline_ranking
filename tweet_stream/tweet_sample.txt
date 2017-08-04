@@ -1,0 +1,1445 @@
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "This is awesome! \ud83d\ude02\ud83d\ude02\ud83d\ude02 #avgeek https://t.co/pit6ilmfZO", 
+    "is_quote_status": true, 
+    "in_reply_to_status_id": null, 
+    "id": 800902647280648192, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [
+            {
+                "indices": [
+                    21, 
+                    28
+                ], 
+                "text": "avgeek"
+            }
+        ], 
+        "urls": [
+            {
+                "url": "https://t.co/pit6ilmfZO", 
+                "indices": [
+                    29, 
+                    52
+                ], 
+                "expanded_url": "https://twitter.com/atcmemes/status/800902442137296897", 
+                "display_url": "twitter.com/atcmemes/statu\u2026"
+            }
+        ]
+    }, 
+    "quoted_status_id": 800902442137296897, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1479785045820", 
+    "quoted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Order your light chop shirt here:\n\nhttps://t.co/18P1HRrMSC\n#lightchop #atcmemes #delta https://t.co/pXVZcA1PyA", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 800902442137296897, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        59, 
+                        69
+                    ], 
+                    "text": "lightchop"
+                }, 
+                {
+                    "indices": [
+                        70, 
+                        79
+                    ], 
+                    "text": "atcmemes"
+                }, 
+                {
+                    "indices": [
+                        80, 
+                        86
+                    ], 
+                    "text": "delta"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/18P1HRrMSC", 
+                    "indices": [
+                        35, 
+                        58
+                    ], 
+                    "expanded_url": "http://www.teespring.com/lightchop", 
+                    "display_url": "teespring.com/lightchop"
+                }
+            ], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/ATCmemes/status/800902442137296897/photo/1", 
+                    "display_url": "pic.twitter.com/pXVZcA1PyA", 
+                    "url": "https://t.co/pXVZcA1PyA", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cx1ghP6VIAANCEM.jpg", 
+                    "id_str": "800902433064951808", 
+                    "sizes": {
+                        "large": {
+                            "h": 625, 
+                            "resize": "fit", 
+                            "w": 698
+                        }, 
+                        "small": {
+                            "h": 609, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 625, 
+                            "resize": "fit", 
+                            "w": 698
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        87, 
+                        110
+                    ], 
+                    "type": "photo", 
+                    "id": 800902433064951808, 
+                    "media_url": "http://pbs.twimg.com/media/Cx1ghP6VIAANCEM.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "800902442137296897", 
+        "display_text_range": [
+            0, 
+            86
+        ], 
+        "retweet_count": 0, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 718141782152708097, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/723229683014193152/WXAqpjJf_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "profile_text_color": "000000", 
+            "followers_count": 310, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "718141782152708097", 
+            "profile_background_color": "000000", 
+            "listed_count": 6, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "utc_offset": -21600, 
+            "statuses_count": 1217, 
+            "description": null, 
+            "friends_count": 73, 
+            "location": null, 
+            "profile_link_color": "91D2FA", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/723229683014193152/WXAqpjJf_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718141782152708097/1461161851", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "ATC Memes", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 39, 
+            "screen_name": "ATCmemes", 
+            "notifications": null, 
+            "url": null, 
+            "created_at": "Thu Apr 07 18:21:58 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue Nov 22 03:23:16 +0000 2016", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/ATCmemes/status/800902442137296897/photo/1", 
+                    "display_url": "pic.twitter.com/pXVZcA1PyA", 
+                    "url": "https://t.co/pXVZcA1PyA", 
+                    "media_url_https": "https://pbs.twimg.com/media/Cx1ghP6VIAANCEM.jpg", 
+                    "id_str": "800902433064951808", 
+                    "sizes": {
+                        "large": {
+                            "h": 625, 
+                            "resize": "fit", 
+                            "w": 698
+                        }, 
+                        "small": {
+                            "h": 609, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 625, 
+                            "resize": "fit", 
+                            "w": 698
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        87, 
+                        110
+                    ], 
+                    "type": "photo", 
+                    "id": 800902433064951808, 
+                    "media_url": "http://pbs.twimg.com/media/Cx1ghP6VIAANCEM.jpg"
+                }
+            ]
+        }
+    }, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "800902647280648192", 
+    "display_text_range": [
+        0, 
+        28
+    ], 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 2836017776, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/725814706070413312/Y9A3ltX__normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 756, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "2836017776", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 15, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "utc_offset": -28800, 
+        "statuses_count": 1327, 
+        "description": "Writer for @AirlineGeeks | Aspiring Airline Pilot | #avgeek", 
+        "friends_count": 1354, 
+        "location": "Renton, WA", 
+        "profile_link_color": "1DA1F2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725814706070413312/Y9A3ltX__normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836017776/1460064882", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "name": "Ashley Magoon", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 2595, 
+        "screen_name": "Ashley_Magoon", 
+        "notifications": null, 
+        "url": "http://airlinegeeks.com", 
+        "created_at": "Wed Oct 01 01:17:32 +0000 2014", 
+        "contributors_enabled": false, 
+        "time_zone": "Pacific Time (US & Canada)", 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "en", 
+    "created_at": "Tue Nov 22 03:24:05 +0000 2016", 
+    "quoted_status_id_str": "800902442137296897", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+}
+------------------------------------------------------------------------------------------------
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @CP24: WestJet to start serving McDonald's coffee on flights https://t.co/SS5y6ZTtLj https://t.co/E7WIsDZZzq", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 800902651542196224, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1479785046836", 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 19636948, 
+                "indices": [
+                    3, 
+                    8
+                ], 
+                "id_str": "19636948", 
+                "screen_name": "CP24", 
+                "name": "CP24"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/SS5y6ZTtLj", 
+                "indices": [
+                    64, 
+                    87
+                ], 
+                "expanded_url": "http://cp24.to/I6P2EOi", 
+                "display_url": "cp24.to/I6P2EOi"
+            }
+        ], 
+        "media": [
+            {
+                "source_user_id": 19636948, 
+                "source_status_id_str": "800741211275411456", 
+                "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                "url": "https://t.co/E7WIsDZZzq", 
+                "media_url_https": "https://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg", 
+                "source_user_id_str": "19636948", 
+                "source_status_id": 800741211275411456, 
+                "id_str": "800741127716368384", 
+                "sizes": {
+                    "small": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "large": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "medium": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "type": "photo", 
+                "id": 800741127716368384, 
+                "media_url": "http://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg"
+            }
+        ]
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "800902651542196224", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "WestJet to start serving McDonald's coffee on flights https://t.co/SS5y6ZTtLj https://t.co/E7WIsDZZzq", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 800741211275411456, 
+        "favorite_count": 157, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/SS5y6ZTtLj", 
+                    "indices": [
+                        54, 
+                        77
+                    ], 
+                    "expanded_url": "http://cp24.to/I6P2EOi", 
+                    "display_url": "cp24.to/I6P2EOi"
+                }
+            ], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                    "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                    "url": "https://t.co/E7WIsDZZzq", 
+                    "media_url_https": "https://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg", 
+                    "id_str": "800741127716368384", 
+                    "sizes": {
+                        "small": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "large": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "medium": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        78, 
+                        101
+                    ], 
+                    "type": "photo", 
+                    "id": 800741127716368384, 
+                    "media_url": "http://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "800741211275411456", 
+        "display_text_range": [
+            0, 
+            77
+        ], 
+        "retweet_count": 79, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 19636948, 
+            "verified": true, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/459428906571804672/jx_823KA_normal.png", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "profile_text_color": "FB1818", 
+            "followers_count": 1535074, 
+            "profile_sidebar_border_color": "0203CF", 
+            "id_str": "19636948", 
+            "profile_background_color": "000000", 
+            "listed_count": 6298, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/266977293/cp24_twitter_background4.jpg", 
+            "utc_offset": -18000, 
+            "statuses_count": 130513, 
+            "description": "Official account of CP24 - Toronto and the GTA's #1 source for breaking news. Our Twitter account is LIVE 24 hours a day.", 
+            "friends_count": 385, 
+            "location": "Toronto", 
+            "profile_link_color": "02A0D9", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/459428906571804672/jx_823KA_normal.png", 
+            "following": null, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19636948/1398372693", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/266977293/cp24_twitter_background4.jpg", 
+            "name": "CP24", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16, 
+            "screen_name": "CP24", 
+            "notifications": null, 
+            "url": "http://www.cp24.com", 
+            "created_at": "Wed Jan 28 04:56:13 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Nov 21 16:42:36 +0000 2016", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                    "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                    "url": "https://t.co/E7WIsDZZzq", 
+                    "media_url_https": "https://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg", 
+                    "id_str": "800741127716368384", 
+                    "sizes": {
+                        "small": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "large": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "medium": {
+                            "h": 348, 
+                            "resize": "fit", 
+                            "w": 620
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        78, 
+                        101
+                    ], 
+                    "type": "photo", 
+                    "id": 800741127716368384, 
+                    "media_url": "http://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg"
+                }, 
+                {
+                    "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                    "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                    "url": "https://t.co/E7WIsDZZzq", 
+                    "media_url_https": "https://pbs.twimg.com/media/CxzN3LLUUAAW-nJ.jpg", 
+                    "id_str": "800741181541863424", 
+                    "sizes": {
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "large": {
+                            "h": 1365, 
+                            "resize": "fit", 
+                            "w": 2048
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        78, 
+                        101
+                    ], 
+                    "type": "photo", 
+                    "id": 800741181541863424, 
+                    "media_url": "http://pbs.twimg.com/media/CxzN3LLUUAAW-nJ.jpg"
+                }
+            ]
+        }
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": false, 
+        "default_profile_image": false, 
+        "id": 296619948, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687819427212034048/uWQ3Me_w_normal.jpg", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "followers_count": 194, 
+        "profile_sidebar_border_color": "000000", 
+        "id_str": "296619948", 
+        "profile_background_color": "000000", 
+        "listed_count": 2, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", 
+        "utc_offset": -18000, 
+        "statuses_count": 10699, 
+        "description": "Mama to a baby girl. Wife. Sister. Daughter. Friend.", 
+        "friends_count": 704, 
+        "location": null, 
+        "profile_link_color": "3B94D9", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687819427212034048/uWQ3Me_w_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296619948/1455592622", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", 
+        "name": "Sara Marcello", 
+        "lang": "en", 
+        "profile_background_tile": false, 
+        "favourites_count": 2118, 
+        "screen_name": "scernivivo", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Wed May 11 03:27:05 +0000 2011", 
+        "contributors_enabled": false, 
+        "time_zone": "Eastern Time (US & Canada)", 
+        "protected": false, 
+        "default_profile": false, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "en", 
+    "created_at": "Tue Nov 22 03:24:06 +0000 2016", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+        "media": [
+            {
+                "source_user_id": 19636948, 
+                "source_status_id_str": "800741211275411456", 
+                "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                "url": "https://t.co/E7WIsDZZzq", 
+                "media_url_https": "https://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg", 
+                "source_user_id_str": "19636948", 
+                "source_status_id": 800741211275411456, 
+                "id_str": "800741127716368384", 
+                "sizes": {
+                    "small": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "large": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "medium": {
+                        "h": 348, 
+                        "resize": "fit", 
+                        "w": 620
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "type": "photo", 
+                "id": 800741127716368384, 
+                "media_url": "http://pbs.twimg.com/media/CxzN0CqUcAAAf1A.jpg"
+            }, 
+            {
+                "source_user_id": 19636948, 
+                "source_status_id_str": "800741211275411456", 
+                "expanded_url": "https://twitter.com/CP24/status/800741211275411456/photo/1", 
+                "display_url": "pic.twitter.com/E7WIsDZZzq", 
+                "url": "https://t.co/E7WIsDZZzq", 
+                "media_url_https": "https://pbs.twimg.com/media/CxzN3LLUUAAW-nJ.jpg", 
+                "source_user_id_str": "19636948", 
+                "source_status_id": 800741211275411456, 
+                "id_str": "800741181541863424", 
+                "sizes": {
+                    "small": {
+                        "h": 453, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "large": {
+                        "h": 1365, 
+                        "resize": "fit", 
+                        "w": 2048
+                    }, 
+                    "medium": {
+                        "h": 800, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "type": "photo", 
+                "id": 800741181541863424, 
+                "media_url": "http://pbs.twimg.com/media/CxzN3LLUUAAW-nJ.jpg"
+            }
+        ]
+    }
+}
+------------------------------------------------------------------------------------------------
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "RT @tamara3_isabel: NO SE LO PUEDEN PERDER\ud83d\udc9b\ud83d\udc9c https://t.co/SJUEXisscZ", 
+    "is_quote_status": true, 
+    "in_reply_to_status_id": null, 
+    "id": 800902652385259524, 
+    "favorite_count": 0, 
+    "entities": {
+        "user_mentions": [
+            {
+                "id": 50669662, 
+                "indices": [
+                    3, 
+                    18
+                ], 
+                "id_str": "50669662", 
+                "screen_name": "tamara3_isabel", 
+                "name": "\u2020ama\u00efra"
+            }
+        ], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/SJUEXisscZ", 
+                "indices": [
+                    45, 
+                    68
+                ], 
+                "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592", 
+                "display_url": "twitter.com/fatmonkeypr/st\u2026"
+            }
+        ]
+    }, 
+    "quoted_status_id": 800834366259822592, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1479785047037", 
+    "quoted_status": {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Sororidad Eta Gamma Delta Capitulo Beta host our #KaraokeNight \ud83c\udf99\ud83d\udce2\nWhen: Tuesday November 22\nYes you can Sing,where?\u2026 https://t.co/Z4emDfajEH", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 800834366259822592, 
+        "favorite_count": 5, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [
+                {
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "text": "KaraokeNight"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/Z4emDfajEH", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/800834366259822592", 
+                    "display_url": "twitter.com/i/web/status/8\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "800834366259822592", 
+        "display_text_range": [
+            0, 
+            140
+        ], 
+        "retweet_count": 9, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 741447717323341824, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/797562684275380224/VewN-AWC_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "followers_count": 661, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "741447717323341824", 
+            "profile_background_color": "F5F8FA", 
+            "listed_count": 0, 
+            "profile_background_image_url_https": "", 
+            "utc_offset": null, 
+            "statuses_count": 296, 
+            "description": "Refreshing nightlife experience with a relaxed setting in downtown Mayag\u00fcez PR \ud83c\uddf5\ud83c\uddf7 For special event's and bookings FatMonkeyPR@gmail.com", 
+            "friends_count": 590, 
+            "location": "Mayag\u00fcez, Puerto Rico", 
+            "profile_link_color": "1DA1F2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/797562684275380224/VewN-AWC_normal.jpg", 
+            "following": null, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741447717323341824/1465610114", 
+            "profile_background_image_url": "", 
+            "name": "Fat Monkey PR", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 111, 
+            "screen_name": "fatmonkeypr", 
+            "notifications": null, 
+            "url": null, 
+            "created_at": "Sat Jun 11 01:51:26 +0000 2016", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "extended_tweet": {
+            "display_text_range": [
+                0, 
+                127
+            ], 
+            "entities": {
+                "user_mentions": [], 
+                "symbols": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            62
+                        ], 
+                        "text": "KaraokeNight"
+                    }, 
+                    {
+                        "indices": [
+                            115, 
+                            127
+                        ], 
+                        "text": "FatMonkeyPR"
+                    }
+                ], 
+                "urls": [], 
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592/photo/1", 
+                        "display_url": "pic.twitter.com/YXvCe5kNqg", 
+                        "url": "https://t.co/YXvCe5kNqg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg", 
+                        "id_str": "800834357095120898", 
+                        "sizes": {
+                            "large": {
+                                "h": 900, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "medium": {
+                                "h": 900, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            128, 
+                            151
+                        ], 
+                        "type": "photo", 
+                        "id": 800834357095120898, 
+                        "media_url": "http://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592/photo/1", 
+                        "display_url": "pic.twitter.com/YXvCe5kNqg", 
+                        "url": "https://t.co/YXvCe5kNqg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg", 
+                        "id_str": "800834357095120898", 
+                        "sizes": {
+                            "large": {
+                                "h": 900, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "small": {
+                                "h": 680, 
+                                "resize": "fit", 
+                                "w": 680
+                            }, 
+                            "medium": {
+                                "h": 900, 
+                                "resize": "fit", 
+                                "w": 900
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            128, 
+                            151
+                        ], 
+                        "type": "photo", 
+                        "id": 800834357095120898, 
+                        "media_url": "http://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg"
+                    }
+                ]
+            }, 
+            "full_text": "Sororidad Eta Gamma Delta Capitulo Beta host our #KaraokeNight \ud83c\udf99\ud83d\udce2\nWhen: Tuesday November 22\nYes you can Sing,where?#FatMonkeyPR https://t.co/YXvCe5kNqg"
+        }, 
+        "created_at": "Mon Nov 21 22:52:46 +0000 2016", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_screen_name": null, 
+    "id_str": "800902652385259524", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "NO SE LO PUEDEN PERDER\ud83d\udc9b\ud83d\udc9c https://t.co/SJUEXisscZ", 
+        "is_quote_status": true, 
+        "in_reply_to_status_id": null, 
+        "id": 800896352838356992, 
+        "favorite_count": 0, 
+        "entities": {
+            "user_mentions": [], 
+            "symbols": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/SJUEXisscZ", 
+                    "indices": [
+                        25, 
+                        48
+                    ], 
+                    "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592", 
+                    "display_url": "twitter.com/fatmonkeypr/st\u2026"
+                }
+            ]
+        }, 
+        "quoted_status_id": 800834366259822592, 
+        "retweeted": false, 
+        "coordinates": null, 
+        "quoted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "Sororidad Eta Gamma Delta Capitulo Beta host our #KaraokeNight \ud83c\udf99\ud83d\udce2\nWhen: Tuesday November 22\nYes you can Sing,where?\u2026 https://t.co/Z4emDfajEH", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 800834366259822592, 
+            "favorite_count": 5, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "user_mentions": [], 
+                "symbols": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            49, 
+                            62
+                        ], 
+                        "text": "KaraokeNight"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/Z4emDfajEH", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "expanded_url": "https://twitter.com/i/web/status/800834366259822592", 
+                        "display_url": "twitter.com/i/web/status/8\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "800834366259822592", 
+            "display_text_range": [
+                0, 
+                140
+            ], 
+            "retweet_count": 9, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": null, 
+                "profile_use_background_image": true, 
+                "default_profile_image": false, 
+                "id": 741447717323341824, 
+                "verified": false, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797562684275380224/VewN-AWC_normal.jpg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "followers_count": 661, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "id_str": "741447717323341824", 
+                "profile_background_color": "F5F8FA", 
+                "listed_count": 0, 
+                "profile_background_image_url_https": "", 
+                "utc_offset": null, 
+                "statuses_count": 296, 
+                "description": "Refreshing nightlife experience with a relaxed setting in downtown Mayag\u00fcez PR \ud83c\uddf5\ud83c\uddf7 For special event's and bookings FatMonkeyPR@gmail.com", 
+                "friends_count": 590, 
+                "location": "Mayag\u00fcez, Puerto Rico", 
+                "profile_link_color": "1DA1F2", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797562684275380224/VewN-AWC_normal.jpg", 
+                "following": null, 
+                "geo_enabled": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/741447717323341824/1465610114", 
+                "profile_background_image_url": "", 
+                "name": "Fat Monkey PR", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 111, 
+                "screen_name": "fatmonkeypr", 
+                "notifications": null, 
+                "url": null, 
+                "created_at": "Sat Jun 11 01:51:26 +0000 2016", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": true, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "extended_tweet": {
+                "display_text_range": [
+                    0, 
+                    127
+                ], 
+                "entities": {
+                    "user_mentions": [], 
+                    "symbols": [], 
+                    "hashtags": [
+                        {
+                            "indices": [
+                                49, 
+                                62
+                            ], 
+                            "text": "KaraokeNight"
+                        }, 
+                        {
+                            "indices": [
+                                115, 
+                                127
+                            ], 
+                            "text": "FatMonkeyPR"
+                        }
+                    ], 
+                    "urls": [], 
+                    "media": [
+                        {
+                            "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592/photo/1", 
+                            "display_url": "pic.twitter.com/YXvCe5kNqg", 
+                            "url": "https://t.co/YXvCe5kNqg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg", 
+                            "id_str": "800834357095120898", 
+                            "sizes": {
+                                "large": {
+                                    "h": 900, 
+                                    "resize": "fit", 
+                                    "w": 900
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "medium": {
+                                    "h": 900, 
+                                    "resize": "fit", 
+                                    "w": 900
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "indices": [
+                                128, 
+                                151
+                            ], 
+                            "type": "photo", 
+                            "id": 800834357095120898, 
+                            "media_url": "http://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg"
+                        }
+                    ]
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "expanded_url": "https://twitter.com/fatmonkeypr/status/800834366259822592/photo/1", 
+                            "display_url": "pic.twitter.com/YXvCe5kNqg", 
+                            "url": "https://t.co/YXvCe5kNqg", 
+                            "media_url_https": "https://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg", 
+                            "id_str": "800834357095120898", 
+                            "sizes": {
+                                "large": {
+                                    "h": 900, 
+                                    "resize": "fit", 
+                                    "w": 900
+                                }, 
+                                "small": {
+                                    "h": 680, 
+                                    "resize": "fit", 
+                                    "w": 680
+                                }, 
+                                "medium": {
+                                    "h": 900, 
+                                    "resize": "fit", 
+                                    "w": 900
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "indices": [
+                                128, 
+                                151
+                            ], 
+                            "type": "photo", 
+                            "id": 800834357095120898, 
+                            "media_url": "http://pbs.twimg.com/media/Cx0imtKVQAIe0gc.jpg"
+                        }
+                    ]
+                }, 
+                "full_text": "Sororidad Eta Gamma Delta Capitulo Beta host our #KaraokeNight \ud83c\udf99\ud83d\udce2\nWhen: Tuesday November 22\nYes you can Sing,where?#FatMonkeyPR https://t.co/YXvCe5kNqg"
+            }, 
+            "created_at": "Mon Nov 21 22:52:46 +0000 2016", 
+            "filter_level": "low", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "in_reply_to_screen_name": null, 
+        "id_str": "800896352838356992", 
+        "display_text_range": [
+            0, 
+            24
+        ], 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": null, 
+            "profile_use_background_image": false, 
+            "default_profile_image": false, 
+            "id": 50669662, 
+            "verified": false, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/790532487084580864/uV_ngu9W_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "followers_count": 914, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "50669662", 
+            "profile_background_color": "26AB85", 
+            "listed_count": 7, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619564400/tuvx0wzaxc4g74weulw0.jpeg", 
+            "utc_offset": -36000, 
+            "statuses_count": 48646, 
+            "description": "namaste \u2022 \u03a6\u0394\u039a & \u0397\u0393\u0394 | PUCPR", 
+            "friends_count": 749, 
+            "location": null, 
+            "profile_link_color": "A650D1", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/790532487084580864/uV_ngu9W_normal.jpg", 
+            "following": null, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50669662/1478128680", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619564400/tuvx0wzaxc4g74weulw0.jpeg", 
+            "name": "\u2020ama\u00efra", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 10343, 
+            "screen_name": "tamara3_isabel", 
+            "notifications": null, 
+            "url": "http://phhhoto.com/tamara_isabel", 
+            "created_at": "Thu Jun 25 15:05:11 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Hawaii", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "es", 
+        "created_at": "Tue Nov 22 02:59:05 +0000 2016", 
+        "quoted_status_id_str": "800834366259822592", 
+        "filter_level": "low", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 3985795754, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790021231101620224/a4FUsFcK_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 479, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "3985795754", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 3, 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "utc_offset": null, 
+        "statuses_count": 8469, 
+        "description": "\u03a6\u0394\u039a \u2022 \u0397\u0393\u0394", 
+        "friends_count": 254, 
+        "location": "Puerto Rico", 
+        "profile_link_color": "1DA1F2", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790021231101620224/a4FUsFcK_normal.jpg", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "name": "fabiola sof\u00eda\ud83d\udc8b", 
+        "lang": "es", 
+        "profile_background_tile": false, 
+        "favourites_count": 1283, 
+        "screen_name": "fabiola_soofia", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Fri Oct 23 00:52:31 +0000 2015", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": true, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "es", 
+    "created_at": "Tue Nov 22 03:24:07 +0000 2016", 
+    "quoted_status_id_str": "800834366259822592", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+}
+------------------------------------------------------------------------------------------------
+{
+    "contributors": null, 
+    "truncated": false, 
+    "text": "MI | AirAsia brings on board bloggers once again to promote Jakarta https://t.co/Id6Z2Pgi1w https://t.co/oQCMDfuULk", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 800902658605187072, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1479785048520", 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [], 
+        "urls": [
+            {
+                "url": "https://t.co/Id6Z2Pgi1w", 
+                "indices": [
+                    68, 
+                    91
+                ], 
+                "expanded_url": "http://bit.ly/2fX6SeF", 
+                "display_url": "bit.ly/2fX6SeF"
+            }
+        ], 
+        "media": [
+            {
+                "expanded_url": "https://twitter.com/scoopsg/status/800902658605187072/photo/1", 
+                "display_url": "pic.twitter.com/oQCMDfuULk", 
+                "url": "https://t.co/oQCMDfuULk", 
+                "media_url_https": "https://pbs.twimg.com/media/Cx1guNuUAAAcznW.jpg", 
+                "id_str": "800902655815974912", 
+                "sizes": {
+                    "large": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "small": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "medium": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    92, 
+                    115
+                ], 
+                "type": "photo", 
+                "id": 800902655815974912, 
+                "media_url": "http://pbs.twimg.com/media/Cx1guNuUAAAcznW.jpg"
+            }
+        ]
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "800902658605187072", 
+    "display_text_range": [
+        0, 
+        91
+    ], 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 129753846, 
+        "verified": false, 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022640724/newspaper_normal.jpg", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 532, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "129753846", 
+        "profile_background_color": "C0DEED", 
+        "listed_count": 83, 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/91664394/wallpaper3.jpg", 
+        "utc_offset": null, 
+        "statuses_count": 166521, 
+        "description": "all news of singapore sourced from everywhere in the world! by @edvarcl", 
+        "friends_count": 619, 
+        "location": "singapore", 
+        "profile_link_color": "0084B4", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022640724/newspaper_normal.jpg", 
+        "following": null, 
+        "geo_enabled": false, 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/91664394/wallpaper3.jpg", 
+        "name": "edvarcl", 
+        "lang": "en", 
+        "profile_background_tile": true, 
+        "favourites_count": 1, 
+        "screen_name": "scoopsg", 
+        "notifications": null, 
+        "url": "http://bit.ly/cMb4BV", 
+        "created_at": "Mon Apr 05 08:53:41 +0000 2010", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "default_profile": false, 
+        "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "en", 
+    "created_at": "Tue Nov 22 03:24:08 +0000 2016", 
+    "filter_level": "low", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+        "media": [
+            {
+                "expanded_url": "https://twitter.com/scoopsg/status/800902658605187072/photo/1", 
+                "display_url": "pic.twitter.com/oQCMDfuULk", 
+                "url": "https://t.co/oQCMDfuULk", 
+                "media_url_https": "https://pbs.twimg.com/media/Cx1guNuUAAAcznW.jpg", 
+                "id_str": "800902655815974912", 
+                "sizes": {
+                    "large": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "small": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "medium": {
+                        "h": 384, 
+                        "resize": "fit", 
+                        "w": 641
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "indices": [
+                    92, 
+                    115
+                ], 
+                "type": "photo", 
+                "id": 800902655815974912, 
+                "media_url": "http://pbs.twimg.com/media/Cx1guNuUAAAcznW.jpg"
+            }
+        ]
+    }
+}
+------------------------------------------------------------------------------------------------

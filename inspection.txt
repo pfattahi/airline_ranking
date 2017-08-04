@@ -1,0 +1,2 @@
+Training error:0.312662200495
+Validation error:0.31718008036

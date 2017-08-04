@@ -1,0 +1,3 @@
+Training error:0.337552742616
+Validation error:0.365079365079
+Samples error:0.0
